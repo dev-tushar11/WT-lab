@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+
+form{
+    background-color: aqua;
+    margin: auto;
+    width: 500px;
+}
+
+#xyz{
+    text-align: center;
+}
+
+.pqr{
+    color: red;
+}
+
+.abc{
+    color: mediumblue;
+}
